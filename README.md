@@ -27,7 +27,7 @@ Blockcast is a decentralized content delivery network (CDN) that lets anyone con
 
 # Steps 👇
 
-- Windows user installs WSL using this: [Guide](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL)
+- Windows users install WSL using this: [Guide](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL)
 - Follow the rest of the process below
 
 ## VPS Buy Process 
