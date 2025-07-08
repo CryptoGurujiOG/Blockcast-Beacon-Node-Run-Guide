@@ -15,6 +15,7 @@ Blockcast is a decentralized content delivery network (CDN) that lets anyone con
 
 - Minimum (2 vCPU, 2 GB RAM, 20 GB SSD, Stable Internet, Ubuntu 22.04)
 - Recommended (4+ vCPU, 4+ GB RAM, 50+ GB SSD, Stable Internet, Ubuntu 22.04)
+- More CPU, RAM, and Storage will improve performance and stability.
 
 ---
 
