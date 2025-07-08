@@ -9,6 +9,8 @@ Blockcast is a decentralized content delivery network (CDN) that lets anyone con
 - By running a Blockcast beacon node, you earn points that will later convert into tokens.
 - Blockcast has launched a 6-month campaign — top-performing nodes will receive a special NFT.
 
+![image alt](https://github.com/CryptoGurujiOG/Blockcast-Beacon-Node-Run-Guide/blob/43dc5494b182ca3705d2a9ea2dea8d6fe6ec8325/Screenshot%201.png)
+
 ---
 
 ## Requirements:
