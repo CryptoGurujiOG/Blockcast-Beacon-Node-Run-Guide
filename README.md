@@ -33,6 +33,13 @@ Blockcast is a decentralized content delivery network (CDN) that lets anyone con
 - If you want to run verifier node on your pc/laptop, then install WSL using this 👉 [Guide](https://github.com/CryptoGurujiOG/Install-Ubuntu-on-Windows-using-WSL)
 - If you want to run verifier node on a VPS then watch my video guide 👉 [Video](https://youtu.be/NK431xjj7yA)
 
+### Sign Up on Blockcast
+
+- Visit: https://app.blockcast.network?referral-code=mRETBw
+- Sign Up your account
+- Click on Profile (top right)
+- Connect Twitter, Discord and Solana wallet
+
 ### Update system & dependencies 
 ```
 sudo apt update && sudo apt upgrade -y
