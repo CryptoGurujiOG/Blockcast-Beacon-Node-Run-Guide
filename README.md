@@ -35,7 +35,7 @@ Blockcast is a decentralized content delivery network (CDN) that lets anyone con
 
 ### Sign Up on Blockcast
 
-- Visit: https://app.blockcast.network?referral-code=mRETBw
+- Blockcast: [Link](https://app.blockcast.network?referral-code=mRETBw)
 - Sign Up your account
 - Click on Profile (top right)
 - Connect Twitter, Discord and Solana wallet
